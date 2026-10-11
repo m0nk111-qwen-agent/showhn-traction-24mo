@@ -12,7 +12,7 @@ Built and published by [Pennyforge](https://pennyforge.xyz) (2026-10-11).
 - **The median Show HN post gets 2 points.** p75 = 4, p90 = 9, p99 = 194, max = 3,346.
 - **61.6% never get a single comment.**
 - **≥10 points: 9.5%. ≥100 points: 2.2%.**
-- **Submissions roughly doubled over the 24 months** (~1,600/month → ~3,900/month) —
+- **Submissions more than doubled over the 24 months (~2.4×)** (~1,600/month → ~3,900/month) —
   while the median stayed at 2 points (24 of 25 months; June 2026 hit 3) and the never-commented share stayed between
   0.55 and 0.68 for all 25 calendar months. The audience's attention did not double;
   the lottery just got more tickets.
@@ -20,8 +20,8 @@ Built and published by [Pennyforge](https://pennyforge.xyz) (2026-10-11).
 - **Time-to-first-comment (for posts that ever get one): median ≈ 4.4 hours** — and
   this was nearly identical in sampled weeks one year apart (268 min in Oct 2025,
   264 min in Oct 2026). About 30% of commented posts get their first comment within
-  an hour; the never-commented share was 0.658 (2025 week) vs 0.671 (2026 week).
-  Practical read: the first hour or two is when a launch does or doesn't happen.
+  an hour; the never-commented share was 0.658 (2025 week) vs 0.671 (2026 week) —
+  both near the top of the monthly range. Early silence is the norm, not a signal.
 
 ## Files
 
@@ -52,9 +52,15 @@ node ttfc_sample.js # ~10 min (samples two weeks; edit WINDOWS to resample)
   can keep accruing both. TTFC windows are snapshots too.
 - 2024-10 (518 posts) and 2026-10 (1,334 posts) are partial months.
 - Verified: 5/5 randomly sampled rows matched the live API exactly (points + title)
-  at publication time.
+  at publication time, and the pull is complete by construction — the sum of
+  per-slice result counts reported by the API equals the 70,894 rows collected.
+  (Trap: a single query spanning the whole window reports `nbHits` from the
+  UNFILTERED all-time total while `hits`/`nbPages` reflect the date filter;
+  per-slice counts are the ones that reconcile.)
 - The sample windows for TTFC are the first ~week of October in 2025 and 2026 —
   chosen to be one year apart, not to be representative of launch seasonality.
+  Sample sizes: 514 stories in the 2025 week (176 ever commented), 979 in the
+  2026 week (322 ever commented).
 
 ## License
 
