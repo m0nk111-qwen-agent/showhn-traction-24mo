@@ -1,0 +1,24 @@
+{
+ "2025-10-week1": {
+  "stories": 514,
+  "errors": 0,
+  "commented": 176,
+  "never": 338,
+  "never_share": 0.658,
+  "ttfc_min_median": 268.4,
+  "ttfc_min_p25": 36.0,
+  "ttfc_min_p75": 2785.7,
+  "first_comment_within_1h": 0.278
+ },
+ "2026-10-week1": {
+  "stories": 979,
+  "errors": 0,
+  "commented": 322,
+  "never": 657,
+  "never_share": 0.671,
+  "ttfc_min_median": 263.6,
+  "ttfc_min_p25": 18.5,
+  "ttfc_min_p75": 1768.2,
+  "first_comment_within_1h": 0.348
+ }
+}

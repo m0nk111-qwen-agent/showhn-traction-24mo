@@ -1,0 +1,324 @@
+{
+ "total": 70893,
+ "parsed": 70893,
+ "points": {
+  "median": 2,
+  "p75": 4,
+  "p90": 9,
+  "p99": 194,
+  "max": 3346,
+  "ge1": 70893,
+  "ge10": 6765,
+  "ge100": 1527
+ },
+ "comments": {
+  "median": 0,
+  "p90": 4,
+  "max": 965,
+  "zero": 43689
+ },
+ "zero_engagement": 0,
+ "by_month": [
+  {
+   "month": "2024-10",
+   "n": 518,
+   "zero_share": 0.554,
+   "ge10": 90,
+   "median_pts": 2
+  },
+  {
+   "month": "2024-11",
+   "n": 1525,
+   "zero_share": 0.577,
+   "ge10": 211,
+   "median_pts": 2
+  },
+  {
+   "month": "2024-12",
+   "n": 1617,
+   "zero_share": 0.56,
+   "ge10": 228,
+   "median_pts": 2
+  },
+  {
+   "month": "2025-01",
+   "n": 1724,
+   "zero_share": 0.575,
+   "ge10": 231,
+   "median_pts": 2
+  },
+  {
+   "month": "2025-02",
+   "n": 1724,
+   "zero_share": 0.599,
+   "ge10": 242,
+   "median_pts": 2
+  },
+  {
+   "month": "2025-03",
+   "n": 2153,
+   "zero_share": 0.597,
+   "ge10": 247,
+   "median_pts": 2
+  },
+  {
+   "month": "2025-04",
+   "n": 2235,
+   "zero_share": 0.597,
+   "ge10": 296,
+   "median_pts": 2
+  },
+  {
+   "month": "2025-05",
+   "n": 2326,
+   "zero_share": 0.592,
+   "ge10": 339,
+   "median_pts": 2
+  },
+  {
+   "month": "2025-06",
+   "n": 2287,
+   "zero_share": 0.638,
+   "ge10": 265,
+   "median_pts": 2
+  },
+  {
+   "month": "2025-07",
+   "n": 2567,
+   "zero_share": 0.617,
+   "ge10": 274,
+   "median_pts": 2
+  },
+  {
+   "month": "2025-08",
+   "n": 2518,
+   "zero_share": 0.646,
+   "ge10": 229,
+   "median_pts": 2
+  },
+  {
+   "month": "2025-09",
+   "n": 2208,
+   "zero_share": 0.636,
+   "ge10": 227,
+   "median_pts": 2
+  },
+  {
+   "month": "2025-10",
+   "n": 2396,
+   "zero_share": 0.631,
+   "ge10": 250,
+   "median_pts": 2
+  },
+  {
+   "month": "2025-11",
+   "n": 2616,
+   "zero_share": 0.634,
+   "ge10": 228,
+   "median_pts": 2
+  },
+  {
+   "month": "2025-12",
+   "n": 3522,
+   "zero_share": 0.61,
+   "ge10": 276,
+   "median_pts": 2
+  },
+  {
+   "month": "2026-01",
+   "n": 4759,
+   "zero_share": 0.619,
+   "ge10": 395,
+   "median_pts": 2
+  },
+  {
+   "month": "2026-02",
+   "n": 6217,
+   "zero_share": 0.625,
+   "ge10": 366,
+   "median_pts": 2
+  },
+  {
+   "month": "2026-03",
+   "n": 5444,
+   "zero_share": 0.589,
+   "ge10": 357,
+   "median_pts": 2
+  },
+  {
+   "month": "2026-04",
+   "n": 3431,
+   "zero_share": 0.576,
+   "ge10": 330,
+   "median_pts": 2
+  },
+  {
+   "month": "2026-05",
+   "n": 2644,
+   "zero_share": 0.611,
+   "ge10": 262,
+   "median_pts": 2
+  },
+  {
+   "month": "2026-06",
+   "n": 3473,
+   "zero_share": 0.658,
+   "ge10": 315,
+   "median_pts": 3
+  },
+  {
+   "month": "2026-07",
+   "n": 4196,
+   "zero_share": 0.618,
+   "ge10": 398,
+   "median_pts": 2
+  },
+  {
+   "month": "2026-08",
+   "n": 3716,
+   "zero_share": 0.634,
+   "ge10": 329,
+   "median_pts": 2
+  },
+  {
+   "month": "2026-09",
+   "n": 3743,
+   "zero_share": 0.65,
+   "ge10": 293,
+   "median_pts": 2
+  },
+  {
+   "month": "2026-10",
+   "n": 1334,
+   "zero_share": 0.675,
+   "ge10": 87,
+   "median_pts": 2
+  }
+ ],
+ "no_url": 3755,
+ "top_domains": [
+  {
+   "domain": "github.com",
+   "n": 23154
+  },
+  {
+   "domain": "apps.apple.com",
+   "n": 917
+  },
+  {
+   "domain": "chromewebstore.google.com",
+   "n": 713
+  },
+  {
+   "domain": "youtube.com",
+   "n": 408
+  },
+  {
+   "domain": "twitter.com",
+   "n": 256
+  },
+  {
+   "domain": "npmjs.com",
+   "n": 190
+  },
+  {
+   "domain": "play.google.com",
+   "n": 152
+  },
+  {
+   "domain": "huggingface.co",
+   "n": 150
+  },
+  {
+   "domain": "medium.com",
+   "n": 115
+  },
+  {
+   "domain": "marketplace.visualstudio.com",
+   "n": 94
+  },
+  {
+   "domain": "gist.github.com",
+   "n": 84
+  },
+  {
+   "domain": "codeberg.org",
+   "n": 78
+  },
+  {
+   "domain": "pypi.org",
+   "n": 72
+  },
+  {
+   "domain": "zenodo.org",
+   "n": 68
+  },
+  {
+   "domain": "gitlab.com",
+   "n": 52
+  },
+  {
+   "domain": "testflight.apple.com",
+   "n": 45
+  },
+  {
+   "domain": "store.steampowered.com",
+   "n": 41
+  },
+  {
+   "domain": "crates.io",
+   "n": 35
+  },
+  {
+   "domain": "chatgpt.com",
+   "n": 32
+  },
+  {
+   "domain": "apps.microsoft.com",
+   "n": 31
+  }
+ ],
+ "domains_total": 33735,
+ "top_authors": [
+  {
+   "author": "keepamovin",
+   "n": 102
+  },
+  {
+   "author": "qwikhost",
+   "n": 94
+  },
+  {
+   "author": "modinfo",
+   "n": 78
+  },
+  {
+   "author": "franze",
+   "n": 64
+  },
+  {
+   "author": "artiomyak",
+   "n": 59
+  },
+  {
+   "author": "freakynit",
+   "n": 56
+  },
+  {
+   "author": "nadermx",
+   "n": 56
+  },
+  {
+   "author": "vednig",
+   "n": 49
+  },
+  {
+   "author": "lexokoh",
+   "n": 47
+  },
+  {
+   "author": "WolfOliver",
+   "n": 47
+  }
+ ]
+}
