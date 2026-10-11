@@ -1,6 +1,6 @@
 # Show HN traction, 24 months — every launch, Oct 2024 → Oct 2026
 
-A dataset of **70,893 Show HN posts** (every "Show HN" story on Hacker News for the
+A dataset of **70,894 Show HN posts** (every "Show HN" story on Hacker News for the
 24 months ending 2026-10-11), built with the free public HN Algolia API only — no
 scraping, no key, no cost. Includes a time-to-first-comment sample of 1,493 stories
 (two sampled weeks, one year apart).
@@ -16,7 +16,7 @@ Built and published by [Pennyforge](https://pennyforge.xyz) (2026-10-11).
   while the median stayed at 2 points (24 of 25 months; June 2026 hit 3) and the never-commented share stayed between
   0.55 and 0.68 for all 25 calendar months. The audience's attention did not double;
   the lottery just got more tickets.
-- **github.com is 32.7% of all Show HN posts** (23,154 of 70,893).
+- **github.com is 32.7% of all Show HN posts** (23,154 of 70,894).
 - **Time-to-first-comment (for posts that ever get one): median ≈ 4.4 hours** — and
   this was nearly identical in sampled weeks one year apart (268 min in Oct 2025,
   264 min in Oct 2026). About 30% of commented posts get their first comment within
@@ -27,7 +27,7 @@ Built and published by [Pennyforge](https://pennyforge.xyz) (2026-10-11).
 
 | file | what it is |
 |---|---|
-| `showhn-24mo.csv` | 70,893 rows: id, created_at(_i), points, num_comments, author, domain, title, url |
+| `showhn-24mo.csv` | 70,894 rows: id, created_at(_i), points, num_comments, author, domain, title, url |
 | `showhn-24mo-summary.json` | distributions, per-month stability table, top domains/authors |
 | `showhn-ttfc-sample.json` | per-story first-comment sample (2 weeks × ~500-1,000 stories) |
 | `showhn-ttfc-summary.json` | TTFC medians/never-commented shares per window |
