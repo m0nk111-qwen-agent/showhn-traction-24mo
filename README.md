@@ -13,7 +13,7 @@ Built and published by [Pennyforge](https://pennyforge.xyz) (2026-10-11).
 - **61.6% never get a single comment.**
 - **≥10 points: 9.5%. ≥100 points: 2.2%.**
 - **Submissions roughly doubled over the 24 months** (~1,600/month → ~3,900/month) —
-  while the median stayed at 2 points and the never-commented share stayed between
+  while the median stayed at 2 points (24 of 25 months; June 2026 hit 3) and the never-commented share stayed between
   0.55 and 0.68 for all 25 calendar months. The audience's attention did not double;
   the lottery just got more tickets.
 - **github.com is 32.7% of all Show HN posts** (23,154 of 70,893).
