@@ -1,13 +1,13 @@
 {
- "total": 70893,
- "parsed": 70893,
+ "total": 70894,
+ "parsed": 70894,
  "points": {
   "median": 2,
   "p75": 4,
   "p90": 9,
   "p99": 194,
   "max": 3346,
-  "ge1": 70893,
+  "ge1": 70894,
   "ge10": 6765,
   "ge100": 1527
  },
@@ -15,7 +15,7 @@
   "median": 0,
   "p90": 4,
   "max": 965,
-  "zero": 43689
+  "zero": 43690
  },
  "zero_engagement": 0,
  "by_month": [
@@ -189,7 +189,7 @@
   },
   {
    "month": "2026-10",
-   "n": 1334,
+   "n": 1335,
    "zero_share": 0.675,
    "ge10": 87,
    "median_pts": 2
@@ -278,7 +278,7 @@
    "n": 31
   }
  ],
- "domains_total": 33735,
+ "domains_total": 33736,
  "top_authors": [
   {
    "author": "keepamovin",
